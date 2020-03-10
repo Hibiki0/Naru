@@ -703,7 +703,7 @@ a,
 	background: var(--alt-accent);
 	border-radius: 8px;
 	color: #fff;
-	font-family: sans-serif;
+	font-family: Itim;
 }
 
 /* CHANNELS LIST -> VOICE CONNECTED */
@@ -5177,14 +5177,14 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 	line-height: 20px;
 	font-weight: 700;
 	font-size: 16px;
-	font-family: sans-serif;
+	font-family: Itim;
 	color: #fff;
 }
 
 #dc-prompt-master-msg {
 	font-weight: 700 !important;
 	font-size: 11px !important;
-	font-family: sans-serif !important;
+	font-family: Itim !important;
 	color: #b2b2b2 !important;
 }
 
@@ -5194,7 +5194,7 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 
 .dc-overlay-centerfield span,
 .dc-overlay-centerfield strong {
-	font-family: sans-serif !important;
+	font-family: Itim !important;
 }
 
 .dc-password-field {
